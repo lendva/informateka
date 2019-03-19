@@ -1,0 +1,35 @@
+<tr><td colspan=3 style="padding:0px;background:#0B1D35"><img src="imgs/spacer.gif" width="1" height="1" border="0"></td></tr><tr><td rowspan="8" style="background:#122437;color:#ffffff;border-right:3px solid #5987B5" align=right>Termék jellemzői
+					<!--<div><input type="checkbox" id="lev3_ajanloba_id1546" class="toErase_lev3ajanloba" name="lev3_ajanloba[1546]" value="1" style="border:0;" ></div>-->
+					</td><td class="talcim">Képméret:</td>
+						<!--<td class="talcim CT"><input type="checkbox" id="lev4_ajanloba_id1547" class="toErase_lev4ajanloba" name="lev4_ajanloba[1547]" value="1" style="border:0;" ></td>-->
+						<td><select name="tjell_adat_id[1547]" style="width:320px;font-size:10px;"><option value="" style="background:#f0f0f0">- - - -</option><option value="3723">31" alatt</option><option value="3724">32" - 38"</option><option value="3725">39" - 43"</option><option value="3726">44" - 54"</option><option value="3727">55" felett</option></select></td>
+						<!--<td class="CT"><input type="checkbox" id="lev4_ertek_id1547" class="toErase_lev4ertek" name="lev4_ertek_ajanloba[1547]" value="1" style="border:0;" ></td>-->
+						</tr><tr><td class="talcim">Felbontás:</td>
+						<!--<td class="talcim CT"><input type="checkbox" id="lev4_ajanloba_id1548" class="toErase_lev4ajanloba" name="lev4_ajanloba[1548]" value="1" style="border:0;" ></td>-->
+						<td><select name="tjell_adat_id[1548]" style="width:320px;font-size:10px;"><option value="" style="background:#f0f0f0">- - - -</option><option value="3728">HD Ready</option><option value="3729">FULL HD</option><option value="3730">UHD/4K</option></select></td>
+						<!--<td class="CT"><input type="checkbox" id="lev4_ertek_id1548" class="toErase_lev4ertek" name="lev4_ertek_ajanloba[1548]" value="1" style="border:0;" ></td>-->
+						</tr><tr><td class="talcim">HDR:</td>
+						<!--<td class="talcim CT"><input type="checkbox" id="lev4_ajanloba_id1549" class="toErase_lev4ajanloba" name="lev4_ajanloba[1549]" value="1" style="border:0;" ></td>-->
+						<td><select name="tjell_adat_id[1549]" style="width:320px;font-size:10px;"><option value="" style="background:#f0f0f0">- - - -</option><option value="3731">Igen</option><option value="3732">Nem</option></select></td>
+						<!--<td class="CT"><input type="checkbox" id="lev4_ertek_id1549" class="toErase_lev4ertek" name="lev4_ertek_ajanloba[1549]" value="1" style="border:0;" ></td>-->
+						</tr><tr><td class="talcim">Wi-Fi:</td>
+						<!--<td class="talcim CT"><input type="checkbox" id="lev4_ajanloba_id1550" class="toErase_lev4ajanloba" name="lev4_ajanloba[1550]" value="1" style="border:0;" ></td>-->
+						<td><select name="tjell_adat_id[1550]" style="width:320px;font-size:10px;"><option value="" style="background:#f0f0f0">- - - -</option><option value="3737">Igen</option><option value="3738">Nem</option></select></td>
+						<!--<td class="CT"><input type="checkbox" id="lev4_ertek_id1550" class="toErase_lev4ertek" name="lev4_ertek_ajanloba[1550]" value="1" style="border:0;" ></td>-->
+						</tr><tr><td class="talcim">Smart:</td>
+						<!--<td class="talcim CT"><input type="checkbox" id="lev4_ajanloba_id1551" class="toErase_lev4ajanloba" name="lev4_ajanloba[1551]" value="1" style="border:0;" ></td>-->
+						<td><select name="tjell_adat_id[1551]" style="width:320px;font-size:10px;"><option value="" style="background:#f0f0f0">- - - -</option><option value="3739">Igen</option><option value="3740">Nem</option></select></td>
+						<!--<td class="CT"><input type="checkbox" id="lev4_ertek_id1551" class="toErase_lev4ertek" name="lev4_ertek_ajanloba[1551]" value="1" style="border:0;" ></td>-->
+						</tr><tr><td class="talcim">OLED:</td>
+						<!--<td class="talcim CT"><input type="checkbox" id="lev4_ajanloba_id1552" class="toErase_lev4ajanloba" name="lev4_ajanloba[1552]" value="1" style="border:0;" ></td>-->
+						<td><select name="tjell_adat_id[1552]" style="width:320px;font-size:10px;"><option value="" style="background:#f0f0f0">- - - -</option><option value="3741">Igen</option><option value="3742">Nem</option></select></td>
+						<!--<td class="CT"><input type="checkbox" id="lev4_ertek_id1552" class="toErase_lev4ertek" name="lev4_ertek_ajanloba[1552]" value="1" style="border:0;" ></td>-->
+						</tr><tr><td class="talcim">QLED:</td>
+						<!--<td class="talcim CT"><input type="checkbox" id="lev4_ajanloba_id1810" class="toErase_lev4ajanloba" name="lev4_ajanloba[1810]" value="1" style="border:0;" ></td>-->
+						<td><select name="tjell_adat_id[1810]" style="width:320px;font-size:10px;"><option value="" style="background:#f0f0f0">- - - -</option><option value="4577">Igen</option><option value="4578">Nem</option></select></td>
+						<!--<td class="CT"><input type="checkbox" id="lev4_ertek_id1810" class="toErase_lev4ertek" name="lev4_ertek_ajanloba[1810]" value="1" style="border:0;" ></td>-->
+						</tr><tr><td class="talcim">HDMI:</td>
+						<!--<td class="talcim CT"><input type="checkbox" id="lev4_ajanloba_id1553" class="toErase_lev4ajanloba" name="lev4_ajanloba[1553]" value="1" style="border:0;" ></td>-->
+						<td><select name="tjell_adat_id[1553]" style="width:320px;font-size:10px;"><option value="" style="background:#f0f0f0">- - - -</option><option value="3733">1</option><option value="3734">2</option><option value="3735">3</option><option value="3736">4</option></select></td>
+						<!--<td class="CT"><input type="checkbox" id="lev4_ertek_id1553" class="toErase_lev4ertek" name="lev4_ertek_ajanloba[1553]" value="1" style="border:0;" ></td>-->
+						</tr><tr><td colspan=3 style="padding:0px;background:#0B1D35"><img src="imgs/spacer.gif" width="1" height="1" border="0"></td></tr></table></div>
